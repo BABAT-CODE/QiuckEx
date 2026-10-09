@@ -1,0 +1,74 @@
+# Auto detect text files and normalize line endings to LF
+* text=auto
+
+# TypeScript
+*.ts text eol=lf
+*.tsx text eol=lf
+
+# JavaScript
+*.js text eol=lf
+*.jsx text eol=lf
+*.mjs text eol=lf
+
+# JSON
+*.json text eol=lf
+
+# YAML
+*.yaml text eol=lf
+*.yml text eol=lf
+
+# Markdown
+*.md text eol=lf
+
+# Shell scripts
+*.sh text eol=lf
+
+# Python
+*.py text eol=lf
+
+# Solidity
+*.sol text eol=lf
+
+# CSS/SCSS
+*.css text eol=lf
+*.scss text eol=lf
+
+# HTML
+*.html text eol=lf
+
+# XML
+*.xml text eol=lf
+
+# SQL
+*.sql text eol=lf
+
+# Rust
+*.rs text eol=lf
+
+# Go
+*.go text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.mov binary
+*.mp4 binary
+*.mp3 binary
+*.gz binary
+*.zip binary
+*.7z binary
+*.ttf binary
+*.otf binary
+*.fnt binary
+
+# Archives
+*.tar binary
+*.tar.gz binary
+*.tar.zst binary
+*.xz binary
+
+# Docker
+Dockerfile linguist-language=Docker
